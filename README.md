@@ -23,3 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Frontend Mentor - [@2daaria](https://www.frontendmentor.io/profile/2daaria)
 
+### Credits
+
+Background - [credit to Codioful (Formerly Gradienta)](https://unsplash.com/photos/purple-and-pink-light-illustration-rKv4HduvzIE)
+
